@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Legend — GTA VI Trophy Guide &amp; Tracker</title>
+<meta name="description" content="The complete offline guide and tracker for all 55 Grand Theft Auto VI trophies on PlayStation 5: roadmap to the platinum, missable warnings, and a cited guide for every trophy.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="brand">
+    <p class="kicker">Grand Theft Auto VI &middot; PlayStation 5 &middot; Offline guide</p>
+    <h1>Leonida Legend</h1>
+    <p class="tagline">Every trophy, every guide, one road to the platinum. 55 trophies &middot; 1 platinum, 2 gold, 6 silver, 46 bronze &middot; 28 hidden &middot; all single-player, none online.</p>
+  </div>
+  <div class="progress" id="progressBox" aria-label="Progress">
+    <svg class="ring" viewBox="0 0 120 120" width="104" height="104" role="img" aria-label="Trophies earned">
+      <circle class="ring-track" cx="60" cy="60" r="52"></circle>
+      <circle class="ring-fill" id="ringFill" cx="60" cy="60" r="52"></circle>
+    </svg>
+    <div class="progress-text">
+      <strong id="progressCount">0 / 55</strong>
+      <span id="progressPct">0% to platinum</span>
+      <span id="gradeCounts" class="grade-counts"></span>
+    </div>
+  </div>
+</header>
+
+<nav class="views" aria-label="Views">
+  <button type="button" class="view-tab is-active" data-view="guide">Trophy Guide</button>
+  <button type="button" class="view-tab" data-view="roadmap">Roadmap to Platinum</button>
+  <button type="button" class="view-tab" data-view="missables">Missables</button>
+  <span class="view-note" id="viewNote"></span>
+</nav>
+
+<section class="toolbar" aria-label="Filters and tools">
+  <label class="search">Search
+    <input id="search" type="search" placeholder="Search a trophy by name…" autocomplete="off">
+  </label>
+  <label>Kind
+    <select id="kind">
+      <option value="all">All kinds</option>
+      <option value="story">Story</option>
+      <option value="missable">Missable</option>
+      <option value="collectibles">Collectibles</option>
+      <option value="activities">Activities</option>
+      <option value="character">Character quests</option>
+      <option value="robberies">Robberies</option>
+      <option value="exploration">Exploration</option>
+      <option value="money">Money</option>
+      <option value="secrets">Secrets</option>
+      <option value="completion">100% completion</option>
+      <option value="online">Online (none)</option>
+    </select>
+  </label>
+  <label>Grade
+    <select id="grade">
+      <option value="all">All grades</option>
+      <option value="platinum">Platinum</option>
+      <option value="gold">Gold</option>
+      <option value="silver">Silver</option>
+      <option value="bronze">Bronze</option>
+    </select>
+  </label>
+  <label class="check"><input id="earnedOnly" type="checkbox"> Earned only</label>
+  <label class="check"><input id="spoiler" type="checkbox"> Hide story spoilers</label>
+  <span class="tools">
+    <button id="exportBtn" type="button">Export progress</button>
+    <label class="import-btn">Import progress <input id="importFile" type="file" accept="application/json,.json"></label>
+    <button id="resetBtn" type="button">Reset</button>
+  </span>
+</section>
+
+<main id="main">
+  <section id="guideView" class="guide-layout">
+    <div class="list-col">
+      <p class="list-meta" id="listMeta"></p>
+      <ul class="cards" id="cards"></ul>
+    </div>
+    <aside class="detail-col" id="detailCol" aria-label="Trophy guide detail"></aside>
+  </section>
+
+  <section id="roadmapView" class="roadmap" hidden></section>
+
+  <section id="missablesView" class="missables" hidden>
+    <h2>Missable trophies</h2>
+    <p class="lede">PowerPyx and GTABase agree: there is only <strong>one possibly missable trophy</strong> in GTA VI. Everything else can be finished after the story in free-roam. There is no mission replay and no New Game+, so keep manual saves at the start of each chapter — the game offers 15 manual save slots.</p>
+    <div id="missableCards" class="cards"></div>
+    <h3>Save habits that protect the platinum</h3>
+    <ol class="advice">
+      <li><strong>Chapter 1, morning after Down to Earth:</strong> talk to Lucia in the kitchen at Jason&rsquo;s house, follow her to the balcony and choose Accept on her meditation. It is gone after Chapter 1 and it is unconfirmed whether the trophy needs it — do it anyway.</li>
+      <li><strong>Keep a manual save at the start of every chapter</strong> and one before the final mission. Rotate the remaining slots for free-roam cleanup.</li>
+      <li><strong>Do time-sensitive stranger quests when they appear.</strong> A few quests carry an hourglass icon and fail after a while; PowerPyx says they are not needed for trophies, but Yago&rsquo;s Race Against Yago feeds the Strangers &amp; Freaks strand, so don&rsquo;t leave it.</li>
+      <li><strong>Keep cheats off for the whole run.</strong> Cheats disable trophies and saving, and they only unlock after the story anyway.</li>
+      <li><strong>Turn on progress notifications</strong> (Settings &gt; UI &gt; HUD Notifications) so collectible and criminal-profile progress is always visible.</li>
+    </ol>
+    <p class="source-note">Sources: PowerPyx — GTA 6 Trophy Guide &amp; Roadmap; GTABase — GTA 6 Trophy Guide; OutputLag — GTA 6 Trophy List. Full links sit beside each trophy&rsquo;s guide.</p>
+  </section>
+</main>
+
+<footer>
+  <p><strong>How this guide is built.</strong> Names, descriptions and grades are PlayStation&rsquo;s official list, as listed by Exophase and PSNProfiles. Every guide is written in our own words for this entry and cites its sources beside it; where no guide has confirmed a method yet (five trophies at launch), the guide says so plainly instead of inventing a location. Difficulty and time estimates come from PowerPyx (4/10, about 200 hours).</p>
+  <p><strong>Offline.</strong> This app loads only its own files and works with the network off. Your ticks are saved in this browser only (localStorage) and can be exported to a file and imported back.</p>
+  <p class="fine">An unofficial fan guide. Not affiliated with Rockstar Games. No Rockstar logo or artwork is used anywhere in this guide.</p>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

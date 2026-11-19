@@ -1,0 +1,1164 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "The official 55 PS5 trophies: 1 platinum, 2 gold, 6 silver, 46 bronze; 28 hidden. Names, descriptions and grades as PlayStation publishes them, cross-checked on Exophase and PSNProfiles. Guides are original, written for this entry; facts are cited to the sources named beside each trophy.",
+  "notes": {
+    "difficulty": "PowerPyx rates the platinum 4/10 and about 200 hours, one playthrough, no online trophies, cheats disable trophies and saving.",
+    "missable": "PowerPyx and GTABase flag only one possibly missable trophy: Positive Mental Attitude, because of a Chapter 1 meditation at Jason's house. Everything else can be finished after the story in free-roam; there is no mission replay, so keep manual saves at the start of each chapter.",
+    "online": "None of the 55 trophies needs online play; all are single-player and offline."
+  },
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "hidden": false,
+      "count": null,
+      "kind": "platinum",
+      "story": false,
+      "missable": false,
+      "stage": 5,
+      "guide": "The platinum pops the moment the other 54 trophies are all earned — there is nothing extra to do for it. Work through the roadmap stages in order (story, character quests, activities, collectibles, robberies and money, then 100% completion) and this unlocks last, automatically. PowerPyx puts the whole set at about 200 hours and difficulty 4/10, with a single playthrough enough.",
+      "steps": [
+        "Earn the other 54 trophies.",
+        "Follow the roadmap: story first, then side content, then the 100% checklist."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+        {"name": "Exophase — Grand Theft Auto VI Trophies (PS5)", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "story",
+      "story": true,
+      "missable": false,
+      "stage": 1,
+      "guide": "Story trophy, unmissable: it unlocks when you finish the opening mission, Gone Fishing, in Chapter 1. Just play the story — it is the first mission of the game, so this is normally the first trophy you earn. PowerPyx lists it as an automatic story trophy.",
+      "steps": ["Play Chapter 1 and finish the mission Gone Fishing."],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+        {"name": "Exophase — Grand Theft Auto VI Trophies (PS5)", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "story",
+      "story": true,
+      "missable": false,
+      "stage": 1,
+      "guide": "Story trophy, unmissable: finish every main mission in Chapter 1 and it pops as Chapter 2 begins. Before you leave Chapter 1, do the one thing that might not come back — Lucia's balcony meditation at Jason's house (see Positive Mental Attitude). PowerPyx notes the chapter ends after the first mission of Chapter 2, What's in the Bag?",
+      "steps": [
+        "Finish all Chapter 1 main missions.",
+        "Before Chapter 1 ends, do Lucia's balcony meditation at Jason's house."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "story",
+      "story": true,
+      "missable": false,
+      "stage": 1,
+      "guide": "Story trophy, unmissable: finish Chapter 2 and it pops as Chapter 3 opens. Chapter 2 is where the game opens up — after the mission Coffee Break you can switch between Jason and Lucia and roam together, which is when partner trophies and most side content become possible. PowerPyx places the chapter break at the first mission of Chapter 3, Welcome to Vice City.",
+      "steps": [
+        "Finish all Chapter 2 main missions.",
+        "After Coffee Break, start trying partner activities and side quests as they appear."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "story",
+      "story": true,
+      "missable": false,
+      "stage": 1,
+      "guide": "Story trophy, unmissable: finish Chapter 3 and it pops as Chapter 4 begins. By now the jewelry jobs, Randy's car wish list and Tyrone's lab questline should all be open — take them as they appear, since doing side content alongside the story saves cleanup later. PowerPyx places the break after the first two missions of Chapter 4, Ocean Beach and Another Life.",
+      "steps": [
+        "Finish all Chapter 3 main missions.",
+        "Pick up the side questlines that open in this chapter (Randy, Tyrone, Yasmani)."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "story",
+      "story": true,
+      "missable": false,
+      "stage": 1,
+      "guide": "Story trophy, unmissable: finish Chapter 4 and it pops as the final chapter begins. Chapter 4 is where the big bank-vault robberies open up (the optional mission That's Where The Money Is…), which feed several robbery trophies and the money trophies. PowerPyx places the break at the end of the Chapter 4 mission Starting From Zero.",
+      "steps": [
+        "Finish all Chapter 4 main missions.",
+        "Do the optional mission That's Where The Money Is… when it appears — it unlocks bank vault robberies."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "hidden": true,
+      "count": null,
+      "kind": "story",
+      "story": true,
+      "missable": false,
+      "stage": 1,
+      "guide": "Story trophy, unmissable: finish the final mission and it pops — this is the last story beat, and the only gold trophy on the hidden list. Keep a manual save from just before the final mission: there is no mission replay and no New Game+, so a save is your only way back to the endgame state. After the credits you return to free-roam to clean up everything else.",
+      "steps": [
+        "Keep a manual save before the final mission.",
+        "Finish the final mission; free-roam continues afterwards."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "story",
+      "story": true,
+      "missable": false,
+      "stage": 1,
+      "guide": "Story trophy, unmissable: it unlocks during the Chapter 2 main mission Breakfast Run. Just follow the story — there is nothing extra to do, and PowerPyx lists it as an automatic story trophy.",
+      "steps": ["Play the Chapter 2 main mission Breakfast Run to the end."],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "story",
+      "story": true,
+      "missable": false,
+      "stage": 1,
+      "guide": "Story trophy, unmissable: it unlocks during the Chapter 3 main mission The Cartel Heist. Follow the story through Chapter 3 and it pops on its own.",
+      "steps": ["Play the Chapter 3 main mission The Cartel Heist to the end."],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "story",
+      "story": true,
+      "missable": false,
+      "stage": 1,
+      "guide": "Story trophy, unmissable: it unlocks during the Chapter 4 main mission Child's Play. Follow the story and it pops on its own.",
+      "steps": ["Play the Chapter 4 main mission Child's Play to the end."],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "story",
+      "story": true,
+      "missable": false,
+      "stage": 1,
+      "guide": "Story trophy, unmissable: it unlocks during the Chapter 4 main mission Headliners. Follow the story and it pops on its own.",
+      "steps": ["Play the Chapter 4 main mission Headliners to the end."],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "story",
+      "story": true,
+      "missable": false,
+      "stage": 1,
+      "guide": "Story trophy, unmissable: it unlocks during the Chapter 4 main mission VCIA Takedown, at Vice City International Airport. Follow the story and it pops on its own — the airport is also where the Catch Me If You Can trophy is done later.",
+      "steps": ["Play the Chapter 4 main mission VCIA Takedown to the end."],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "story",
+      "story": true,
+      "missable": false,
+      "stage": 1,
+      "guide": "Story trophy, unmissable: it unlocks during the Chapter 5 main mission Operation Savage Glory. Follow the story to the end and it pops on its own.",
+      "steps": ["Play the Chapter 5 main mission Operation Savage Glory to the end."],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "hidden": false,
+      "count": null,
+      "kind": "completion",
+      "story": false,
+      "missable": false,
+      "stage": 5,
+      "guide": "The hardest trophy, and the last gold most players earn. The 100% checklist only becomes visible after the story (Progress > Stats > 100% Completion), but progress made during the story already counts, and nothing on it is missable. PowerPyx stresses it is lenient — closer to 60% true completion: you need 200 of 277 vehicles scanned, 100 of 255 animals studied, 300 stunts, 70 of 80 challenges, 15 of 18 meditations, 100 optional missions, all 8 bank vaults, all 39 gang operations and all 15 target decks. Work the checklist after the story, using this guide's other trophies as its parts.",
+      "steps": [
+        "Finish the story to reveal the checklist (Progress > Stats > 100% Completion).",
+        "Scan 200 of 277 vehicles and study 100 of 255 animals as you go.",
+        "Complete 300 stunts, 70 of 80 challenges and 100 optional missions.",
+        "Clear all 8 bank vaults, all 39 gang operations and all 15 target decks."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+        {"name": "GTABase — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "hidden": false,
+      "count": 250,
+      "kind": "activities",
+      "story": false,
+      "missable": false,
+      "stage": 3,
+      "guide": "Complete any 250 of the 397 stunts in Leonida — you can mix the four kinds, and the quickest are the 202 Under the Bridges (fly a plane under them). The other kinds are 130 stunt jumps, 40 knife flights between buildings and 25 base jumps. Track progress in Progress > Activities > Stunts, or on the map under Exploration > Stunt Spots, where each stunt is named and stays marked once done. Note the 100% checklist wants 300, so keep going past 250.",
+      "steps": [
+        "Do any 250 stunts across the four kinds (jumps, under bridges, knife flights, base jumps).",
+        "Under the Bridges are the quickest — fly a plane under them.",
+        "Track progress under Progress > Activities > Stunts."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": 9,
+      "kind": "activities",
+      "story": false,
+      "missable": false,
+      "stage": 3,
+      "guide": "Try all 9 activity types at least once: fishing, hunting, golf, shooting ranges, pool, basketball, playing a video game, winning a car race / race challenge / drone race, and performing a stunt. Check what you have done under Progress > Activities. PowerPyx says you will do one of each almost automatically while working on the other trophies, and the story introduces most of them — so don't chase this early; let it come to you and mop up the stragglers on the map's Activities filter (blue dumbbell icon).",
+      "steps": [
+        "Try one of each of the 9 activity types (fishing, hunting, golf, shooting range, pool, basketball, video game, race win, stunt).",
+        "Check Progress > Activities to see which types you still need."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "hidden": false,
+      "count": 42,
+      "kind": "activities",
+      "story": false,
+      "missable": false,
+      "stage": 3,
+      "guide": "Earn a gold medal in all 42 shooting range challenges across the 12 shooting range locations. PowerPyx links a full location guide and notes the gold medals are not too difficult. Ranges unlock as you unfog the map, and practising here also raises your Focus level, which helps the Gunslinger trophy. Do them after the story when you have good weapons and plenty of ammo.",
+      "steps": [
+        "Visit all 12 shooting range locations.",
+        "Earn gold in each of the 42 challenges."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": 14,
+      "kind": "activities",
+      "story": false,
+      "missable": false,
+      "stage": 3,
+      "guide": "Win a Top Fun drone race at all 14 locations (42 drone races in total across them). PowerPyx links a guide to every location. Drone races also count as one of the 9 activity types for Master of None, and a win here can count toward the 20 different races for Earn Cash, Not Kudos — so do them as part of the racing cleanup, not on their own.",
+      "steps": [
+        "Find the 14 Top Fun drone race locations.",
+        "Win at least one race at each location."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": 20,
+      "kind": "activities",
+      "story": false,
+      "missable": false,
+      "stage": 3,
+      "guide": "Win 20 different races — each race location counts once, so you need 20 distinct ones, not 20 wins at the same spot. PowerPyx counts 40 unique race locations in the game, so there is plenty of choice: pick the easiest car races first, and remember drone race wins and race challenges can help fill the list. Track which you have won on the map.",
+      "steps": [
+        "Win races at 20 different race locations (40 exist).",
+        "Start with the easiest car races; vary the locations."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": null,
+      "kind": "activities",
+      "story": false,
+      "missable": false,
+      "stage": 3,
+      "guide": "Beat Cal in a fishing challenge. After the Chapter 1 mission Feng Shui, where you meet Cal, he will text you and mark a fishing spot with a purple icon on the map — follow his fishing questline and the challenge comes up naturally. PowerPyx says to follow Cal's quests; fishing also counts as one of the 9 activity types for Master of None.",
+      "steps": [
+        "Finish Chapter 1 mission Feng Shui to meet Cal.",
+        "Wait for Cal's text, follow the purple fishing marker, and beat him in the challenge."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": null,
+      "kind": "activities",
+      "story": false,
+      "missable": false,
+      "stage": 3,
+      "guide": "Finish any one of the 4 arcade games (called Video Games in-game): Tenebrae Lux, Street Trash III, Time Jackers Rewind or Bang For Your Buck. The first three are playable on the TV at home from Chapter 1 — interact with the controllers — and Bang For Your Buck is on arcade machines around the world. To complete a game you must finish all its levels at least once; you don't need to beat every challenge. Pick whichever game you enjoy most.",
+      "steps": [
+        "Play one of the 4 arcade games (Tenebrae Lux, Street Trash III, Time Jackers Rewind, Bang For Your Buck).",
+        "Finish all of its levels at least once."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "character",
+      "story": false,
+      "missable": false,
+      "stage": 2,
+      "guide": "Finish Andy's 5-quest optional storyline, which is exclusive to Lucia. It opens in Chapter 3: while playing as Lucia you get a call from Andy, then a text with her home address in Belville. The quests are Climbing the Cellerichain (Parts 1–3), Pay the Cellerica Fee, Peach!, Read the Label and Puff Puff Pass. All of Andy's quests stay available after the story, so nothing here is missable.",
+      "steps": [
+        "In Chapter 3, as Lucia, take Andy's call and follow her address to Belville.",
+        "Complete all 5 Andy quests, ending with Puff Puff Pass."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "character",
+      "story": false,
+      "missable": false,
+      "stage": 2,
+      "guide": "Finish Kenton's treasure-diving questline. It opens in Chapter 1: a while after the mission Island Dreams (where you work for Kenton) he calls you and is marked with a green KR icon in Key Lento. He marks purple treasure-chest icons on the map — dive for the treasures at 7 shipwrecks, using the metal detector on the ocean floor, and bring them back. Kenton goes temporarily unavailable after Chapter 1 but returns in Chapter 2–3 (playing as Jason, calling Brian can speed it up), so the trophy is not missable. Track it under Progress > Characters > Kenton Rees.",
+      "steps": [
+        "After Island Dreams, answer Kenton's call and visit him in Key Lento.",
+        "Clear all 7 shipwrecks: dive, metal-detect the treasure, bring it back.",
+        "Return to his shop whenever he calls with more locations."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "character",
+      "story": false,
+      "missable": false,
+      "stage": 2,
+      "guide": "Finish Billy's 5-quest optional storyline at the Thrillbilly Mudclub in Kelly County. It opens after the Chapter 2 mission Coffee Break and is marked on the map. The quests are Thrillbillies, Twist Wrist Smash Grab, Mall Rats, The Impaler and Hometown Heroes. All of them stay available after the story.",
+      "steps": [
+        "After Coffee Break, go to the Thrillbilly Mudclub in Kelly County.",
+        "Complete all 5 Billy quests, ending with Hometown Heroes."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "hidden": false,
+      "count": 8,
+      "kind": "activities",
+      "story": false,
+      "missable": false,
+      "stage": 2,
+      "guide": "Complete 8 stranger mission strands. Only certain questlines count — PowerPyx confirms Kirk (Skunk Ape: Search for the Skunk Ape, Search for Tree Effigies, Help Kirk Find Mr. Mangrove), Kyle (McKittrick Farm, Collect Chemicals, Buddy?), Yago (street races including Race Against Yago, then Brother to Brother) and Pilot Pete (The Last Mile quests and his deliveries), with more strands still being confirmed. Note that Moses, Tyrone, Yasmani, Andy, Billy and Eddie do NOT count toward this trophy. Strangers stay available after the story, and you can track your count in the trophy list itself. One caution from other guides: Yago's Race Against Yago is time-sensitive (hourglass icon), so do stranger quests as they appear rather than leaving them all to the end.",
+      "steps": [
+        "Complete 8 counting stranger strands (Kirk, Kyle, Yago, Pilot Pete are confirmed).",
+        "Do time-sensitive (hourglass) stranger quests as soon as they appear.",
+        "Check your count in the PS5 trophy list."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+        {"name": "OutputLag — GTA 6 Trophy List", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "character",
+      "story": false,
+      "missable": false,
+      "stage": 2,
+      "guide": "Finish Randy's Wish List: deliver 16 sports cars he wants. It opens after the Chapter 3 mission Clonin' Keys, Makin' GS, where you steal the Zorrusso for Randy and unlock the Key Cloner for breaking into high-end cars. Track the list under Map > Robberies > Randy's Wish List; Randy marks some cars in fixed locations, but you can also steal them off the street — scan a car with the WAiNK app to see if it's on the list, then drive it to his garage (green RK icon, west Vice City) in good condition for a better payout. Sports cars are common around Vice Beach and Ocean Beach. It can all be done after the story.",
+      "steps": [
+        "After Clonin' Keys, Makin' GS, open Map > Robberies > Randy's Wish List.",
+        "Scan sports cars with WAiNK to find ones on the list.",
+        "Deliver all 16 cars to Randy's garage in good condition."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "character",
+      "story": false,
+      "missable": false,
+      "stage": 2,
+      "guide": "Finish Tyrone's questline, which is Jason-only. It opens after the Chapter 3 mission Here, Kitty Kitty: purple markers appear for Synthetic Labs in Vice City. Go to the labs and destroy them (the quest Take Out Kitty Litter), and after enough labs are destroyed Tyrone gives the second quest, Spin On This, to shut the labs down — finishing it pops the trophy. All of it stays available after the story.",
+      "steps": [
+        "After Here, Kitty Kitty, as Jason, destroy the Synthetic Labs (Take Out Kitty Litter).",
+        "Take Tyrone's second quest, Spin On This, and shut the labs down."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": 18,
+      "kind": "collectibles",
+      "story": false,
+      "missable": true,
+      "stage": 4,
+      "guide": "THE ONLY POSSIBLY MISSABLE TROPHY — read this first. There are 18 meditation spots across 10 locations, and meditating at a spot with both Jason and Lucia counts twice, so bring your partner every time (you can only do the final one after Coffee Break in Chapter 2 unlocks playing together). Track it under Progress > Collections > Exploration > Meditations. The risk is the very first meditation: in Chapter 1, the morning after the mission Down to Earth, Lucia talks about meditating in the kitchen at Jason's house and walks to the balcony — follow her, choose Accept, and do the session. It disappears permanently after Chapter 1, and PowerPyx and GTABase both say it is still unconfirmed whether the trophy needs it, so do it to be safe and keep a Chapter 1 save. For the 100% checklist only 15 of 18 meditations are needed, so this trophy is the stricter one.",
+      "steps": [
+        "CHAPTER 1 — DO NOT SKIP: after Down to Earth, follow Lucia to the balcony at Jason's house and Accept her meditation.",
+        "Keep a manual save from Chapter 1 until this trophy pops.",
+        "Meditate at all 18 spots, with both Jason and Lucia each time (counts twice).",
+        "Track it under Progress > Collections > Exploration > Meditations."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+        {"name": "GTABase — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
+        {"name": "HowToVideoGame — GTA 6 Meditation Spots", "url": "https://howtovideogame.com/gta-6-meditation-spots/"}
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "character",
+      "story": false,
+      "missable": false,
+      "stage": 2,
+      "guide": "Hunt a unique animal for Bret Vogel. His questline opens after the Chapter 2 mission Coffee Break: while playing as Jason you get a text from Bret marking his first quest, Veteran Hunted, in Lummox County (Lucia can't receive it — it's Jason-only). After meeting him he marks hunting spots with purple icons; hunt the animals he requests and bring them to him. On the first quest he gives you the unique hunting rifle Killtelligence SM-69, retrievable from any weapon locker at Ammu-Nation. PowerPyx notes it is still being confirmed exactly which animal pops the trophy, so work through Bret's quests in order and watch the Target Deck tracker (Map > Activities > Target Deck — all 15 decks are needed for 100%).",
+      "steps": [
+        "After Coffee Break, as Jason, answer Bret's text and meet him in Lummox County (Veteran Hunted).",
+        "Follow his purple hunting markers and bring him the animals he requests.",
+        "Work through his questline until the trophy pops."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "hidden": false,
+      "count": 3,
+      "kind": "collectibles",
+      "story": false,
+      "missable": false,
+      "stage": 4,
+      "guide": "Complete any 3 collectible card sets — there are 18 sets in total, so you only need a fraction of them. PowerPyx links a guide to all 18 set locations. Cards are found across Leonida; a few are in story buildings that later become inaccessible, but PowerPyx notes they also spawn in other locations and you don't need all of them, so don't worry about missing one. Pick the three sets whose cards are closest together and finish those.",
+      "steps": [
+        "Collect cards around Leonida; any 3 complete sets count.",
+        "Use a card-set location guide and finish the three easiest sets first."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "hidden": false,
+      "count": 100,
+      "kind": "collectibles",
+      "story": false,
+      "missable": false,
+      "stage": 4,
+      "guide": "Use the WAiNK app to scan 100 locations — any 100 count, and there are far more than that: 31 landmarks, 35 curiosities and 23 sculptures, plus more. Open WAiNK from your phone (or hold Up to use it instantly), look at a scannable object and hold R1 to scan it. Do it as you travel: scan landmarks and curiosities whenever you pass them, and this pops naturally during exploration and the Goodtime State unfogging run.",
+      "steps": [
+        "Open the WAiNK app and scan objects you pass (hold R1 while looking at them).",
+        "Scan any 100 locations — landmarks, curiosities and sculptures all count."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": 50,
+      "kind": "activities",
+      "story": false,
+      "missable": false,
+      "stage": 3,
+      "guide": "Complete any 50 of the 80 challenges in the game. View them under Progress > Challenges, where a checkmark shows which are done. Most complete naturally while you work on the other trophies, so leave this for late in the cleanup and then pick the easiest remaining ones — the 100% checklist needs 70 of 80, so you will pass 50 on the way there. PowerPyx links a guide to all 80 challenges.",
+      "steps": [
+        "Play normally — most challenges complete while chasing other trophies.",
+        "Check Progress > Challenges late in the game and finish the easiest ones left."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": null,
+      "kind": "robberies",
+      "story": false,
+      "missable": false,
+      "stage": 5,
+      "guide": "With your partner beside you, reach a 4-star wanted level and then escape the red heat zone. You can only do this after Coffee Break (Chapter 2), when you can free-roam together — call your partner by holding Right and pressing Triangle. Cause chaos until you hit 4 stars, then escape in a fast sports motorcycle, cutting through traffic; if a helicopter chases you, shoot it down. PowerPyx's easiest route is the train tunnel north of Ambrosia in Kelly County — police struggle to follow on the tracks and the helicopter can't see you. The trophy pops when you drive out of the red heat zone, not just the flashing search area. You will also likely get it automatically while robbing the large bank vaults, which always trigger 4 stars.",
+      "steps": [
+        "After Coffee Break, call your partner (hold Right + Triangle).",
+        "Reach a 4-star wanted level, then escape the red heat zone — the train tunnel north of Ambrosia is the easiest route."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": 3,
+      "kind": "robberies",
+      "story": false,
+      "missable": false,
+      "stage": 5,
+      "guide": "With your partner, rob 3 shops in a row while staying wanted the whole time — don't let the wanted level drop between shops. You need the partner system from Coffee Break (Chapter 2) onward. Hit 3 robbery targets (green icons) back to back, keeping the red/blue flashing wanted level; equip an armored vest and sticky bombs from Ammu-Nation and carry Zombix or Adrenaline for healing. PowerPyx suggests the 3 jewelry stores in north Vice City (open after Chapter 3's Yasmani's Jewelry Jobs) — rob a couple of items in each, break the safe with sticky bombs, and if it doesn't pop after the third shop, hit a fourth; the unlock is delayed by about half a minute after leaving the third shop.",
+      "steps": [
+        "Call your partner, then rob 3 shops in a row without losing your wanted level.",
+        "The 3 jewelry stores in north Vice City work well; loot each and break the safe.",
+        "If it doesn't pop, hit a 4th shop — the unlock is delayed ~30 seconds."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": 100,
+      "kind": "exploration",
+      "story": false,
+      "missable": false,
+      "stage": 4,
+      "guide": "Discover 100 vehicles. The game has 557 vehicles at launch (cars, bikes, boats, helicopters, planes), and scanning with the WAiNK app is enough — you don't need to drive them. Stand on a busy road, open WAiNK (hold Up) and scan passing vehicles with R1; every new unique model adds to your database. Check your totals under Progress > Vehicles. The 100% checklist needs 200 of 277 base models scanned, so keep scanning past 100 and this pops on the way.",
+      "steps": [
+        "Open WAiNK and scan vehicles you see (hold R1) — scanning is enough, no need to drive them.",
+        "A busy road gives you new models fast; check Progress > Vehicles for totals."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": 5,
+      "kind": "activities",
+      "story": false,
+      "missable": false,
+      "stage": 3,
+      "guide": "Defeat 5 enemies during one use of Combat Focus. Activate it with L3 + R3 while aiming — time slows and weak spots are highlighted, but it drains the purple focus bar fast, so prepare first: eat or drink to buff focus, take Adrenaline to extend it (hold L1, press Triangle), and wear body armor from Ammu-Nation. Line up 5 enemies close together — PowerPyx suggests criminals at gang operations — and use an accurate full-auto rifle like the Duke 556. It doesn't seem to work on soldiers, police or civilians, so pick gang enemies. Focus has 4 levels (check Touchpad > Jason & Lucia > Focus); it grows by doing shooting ranges, golf, pool, fishing and headshots, so this gets easier late in the game.",
+      "steps": [
+        "Buff focus (food/drink, Adrenaline) and wear body armor.",
+        "Activate Combat Focus (L3 + R3) while aiming at a group of gang enemies.",
+        "Take down 5 of them before the focus bar runs out — a full-auto rifle helps."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "secrets",
+      "story": false,
+      "missable": false,
+      "stage": 4,
+      "guide": "Steal a large passenger plane docked at a departure terminal at VCIA (Vice City International Airport) and fly away with it. It must be a plane connected to a passenger boarding bridge — the ones parked on the airfield don't count. The easiest is the plane at departure terminals E3/E4: drive through a fence around the airfield, head to the plane, use the stairs by the boarding bridge to get in, go upstairs to the cockpit, reverse to the runway and take off. Fly at least 1 km (0.6 miles) away from the airport and the trophy pops — the unlock is slightly delayed, so keep flying. You can also walk in through the terminal on foot.",
+      "steps": [
+        "Go to VCIA and find the large plane docked at terminals E3/E4.",
+        "Board it, reach the cockpit, reverse to the runway and take off.",
+        "Fly at least 1 km from the airport until it pops."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "secrets",
+      "story": false,
+      "missable": false,
+      "stage": 4,
+      "guide": "Steal a military tank (a Rhino) and use it. The tanks are at Mile Zero Air Station, the island on the south-west edge of the map in Mariana County — they stand in the south of the air base. Drive through the gate (or take the stunt jump by the south-east entrance), climb into a tank and shoot some enemies until the trophy pops. Expect heavy resistance on the base, so go in with armor and a plan to drive out fast.",
+      "steps": [
+        "Go to Mile Zero Air Station, south-west edge of the map (Mariana County).",
+        "Enter the base, climb into a Rhino tank in the south of the base.",
+        "Shoot enemies with the tank until it pops."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": null,
+      "kind": "robberies",
+      "story": false,
+      "missable": false,
+      "stage": 5,
+      "guide": "Rob a jewelry store without being spotted. First finish Chapter 3's Yasmani's Jewelry Jobs — that unlocks the Snap Gun for silently lockpicking alarmed doors, and jewelry store robberies themselves (marked with green icons in unfogged areas). Break in through the back door using the Snap Gun instead of kicking the door (kicking sets off the alarm); inside, find the note with the safe code and loot the safe. PowerPyx recommends Richardson Jewelry & Diamonds in Vice City as a good location. Go in quiet, don't rush, and leave before anyone notices.",
+      "steps": [
+        "Finish Yasmani's Jewelry Jobs (Chapter 3) to get the Snap Gun.",
+        "Enter a jewelry store's back door with the Snap Gun — don't kick it.",
+        "Find the safe code note, loot the safe and leave undetected."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "hidden": false,
+      "count": 5,
+      "kind": "robberies",
+      "story": false,
+      "missable": false,
+      "stage": 5,
+      "guide": "Rob any 5 of the 8 large bank vaults and escape each time. First finish the Chapter 4 optional mission That's Where The Money Is… — it introduces bank vault robberies and your first vault is done as part of it. The method: tail a security van until it stops at a bank, wait for the guard to carry the briefcase in and open the vault, then go in quickly and rob it — bring your partner (hold Right to hand off a bag, since you can't carry it all). After the quest, pay Yasmani for security-van tips ($10,000; finish his earlier Payday Loans quests first) and vans are marked purple on the map. Each robbery triggers a 4-star wanted level, so escape on a fast motorcycle and switch vehicles to go unrecognised. You need all 8 vaults for 100%, so this pops on the way — and each bank pays up to $205,000, the best money in the endgame.",
+      "steps": [
+        "Finish the Chapter 4 optional mission That's Where The Money Is… (unlocks vault robberies).",
+        "Tail security vans to banks (buy Yasmani's tips for $10,000) and rob the vault.",
+        "Rob any 5 vaults and escape; all 8 are needed for 100%."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": null,
+      "kind": "robberies",
+      "story": false,
+      "missable": false,
+      "stage": 5,
+      "guide": "Rob an armored truck and escape. The easiest way is automatic: the Chapter 4 optional mission That's Where The Money Is… has you tail an armored truck to a bank and rob its vault, which counts as robbing an armored truck. Or do it earlier in free-roam: armored trucks drive around Vice City near banks — block one's path, plant a sticky bomb on its back door and blow it open, then escape the red heat radius (a Pay 'n' Spray helps). Sticky bombs are in the back of Yasmani's shop after his quests. You'll get this while working on Maximum Withdrawal anyway.",
+      "steps": [
+        "Do the Chapter 4 mission That's Where The Money Is… — its truck robbery counts.",
+        "Or: block an armored truck, sticky-bomb its back door, loot it and escape the heat radius."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": null,
+      "kind": "exploration",
+      "story": false,
+      "missable": false,
+      "stage": 4,
+      "guide": "Fully unfog the map of Leonida — every area must be revealed, with no black fog left. The fastest way is by plane: fly over each fogged region until it clears. PowerPyx links a guide to the best plane for unfogging. A plane is available early (from Chapter 1), so you can start clearing fog during the story, but it's easiest as a dedicated cleanup flight after the story, combined with WAiNK scans and vehicle discovery.",
+      "steps": [
+        "Get a plane and fly over every fogged part of the map.",
+        "Keep flying until no black fog remains on the map."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": 9,
+      "kind": "robberies",
+      "story": false,
+      "missable": false,
+      "stage": 5,
+      "guide": "Rob one illegal operation for each of the 9 gangs. There are 39 illegal gang operations in total (marked with yellow icons when you go near them, and many are marked automatically from story progress), but this trophy only needs one per gang. Track your per-gang progress under Progress > Gangs — scrolling over a gang shows how many of its operations you've robbed. The 100% checklist needs all 39, so keep clearing them after this pops.",
+      "steps": [
+        "Find illegal gang operations (yellow map icons) and rob one for each of the 9 gangs.",
+        "Track per-gang progress under Progress > Gangs."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "secrets",
+      "story": false,
+      "missable": false,
+      "stage": 4,
+      "guide": "Not yet confirmed in-game — from the official description. The description says to enjoy a cocktail with a view on Ocean Beach, so the likely method is to order a cocktail at a bar or venue overlooking Ocean Beach and take in the view. PowerPyx lists this trophy as currently unknown, with no confirmed method yet, so treat any specific bar or spot named elsewhere as unconfirmed until a guide verifies it. Try the beachfront bars on Ocean Beach in free-roam and check back — this entry will be updated when a source pins it down.",
+      "steps": [
+        "Go to Ocean Beach in free-roam.",
+        "Order a cocktail at a beachfront spot with a view — method not yet confirmed by any guide."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap (lists this trophy as currently unknown)", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+        {"name": "Exophase — Grand Theft Auto VI Trophies (PS5)", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"}
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "secrets",
+      "story": false,
+      "missable": false,
+      "stage": 4,
+      "guide": "Not yet confirmed in-game — from the official description. The description says to smash your way out of a vehicle showroom in classic style, which points to driving a car through the glass front of a showroom — the classic GTA move. PowerPyx lists this trophy as currently unknown, with no confirmed showroom or method yet, so don't trust a specific location until a guide verifies it. The sensible approach is to try a showroom in Vice City in free-roam and see if it pops; this entry will be updated when a source pins it down.",
+      "steps": [
+        "Find a vehicle showroom in Vice City in free-roam.",
+        "Drive out through the showroom front — exact showroom not yet confirmed by any guide."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap (lists this trophy as currently unknown)", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+        {"name": "Exophase — Grand Theft Auto VI Trophies (PS5)", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"}
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "secrets",
+      "story": false,
+      "missable": false,
+      "stage": 5,
+      "guide": "Steal all 3 key valuables at Kingpin Bowling in Port Gellhorn, one of the gang operations — and the trophy's name is a nod to the bowling alley being run by the Kolt gang. Buy sticky bombs from Ammu-Nation first (you need them for the safe). The alley is marked automatically during the Chapter 2 optional mission Hit Kingpin Bowling. Inside, grab the 3 valuables: the luxury watch in the south-east office, the unique shotgun Gutterball Moreland 850 on the table in the north-east corner, and the safe in the north-east hallway office (blow it with sticky bombs). The trophy pops after you escape the police, not when you pick up the third item — and killing enemies isn't required. If you miss an item during the mission, the robbery icon respawns after a while, so you can go back for the rest; it is not missable.",
+      "steps": [
+        "Buy sticky bombs at Ammu-Nation.",
+        "During (or after) the Chapter 2 mission Hit Kingpin Bowling, take the 3 valuables at Kingpin Bowling, Port Gellhorn.",
+        "Blow the safe with sticky bombs, then escape the police."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "secrets",
+      "story": false,
+      "missable": false,
+      "stage": 3,
+      "guide": "Have maximum strength with both Jason and Lucia at the same time. You can only start after Coffee Break (Chapter 2), when you can switch between characters. Check strength under Touchpad > Jason & Lucia > select a character > Strength (heart icon). Raise it by working out — buy a fitness club membership and always bring your partner (hold Right + Triangle to call them): while one character works out, the other completes their training automatically, so you progress twice as fast. Fitness clubs are all over Vice City (filter Map > Activities, dumbbell icon), and you can also work out at home after the story.",
+      "steps": [
+        "After Coffee Break, get a fitness club membership.",
+        "Work out with your partner present so both characters train at once.",
+        "Reach maximum strength on both Jason and Lucia."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "hidden": true,
+      "count": 500,
+      "kind": "secrets",
+      "story": false,
+      "missable": false,
+      "stage": 3,
+      "guide": "Perform 500 actions that affect your criminal profile — click the trophy in the PS5 trophy list to see your count out of 500. Turn on criminal profile notifications first (Settings > UI > HUD Notifications > Criminal Profile = On): every time you do something that affects your reputation, a little demon face appears on the right of the screen. The profiles run from Professional (stealthy objectives, clean escapes) through Hardened (incapacitating without killing) and Violent (killing enemies and civilians) to Psycho and finally Irredeemable, which is permanent — PowerPyx warns to avoid Irredeemable, since police then shoot on sight more aggressively. You will likely reach 500 passively while doing robberies and other trophies; if not, it can be farmed late, but keep the violence measured so you don't lock in Irredeemable.",
+      "steps": [
+        "Turn on Criminal Profile notifications (Settings > UI > HUD Notifications).",
+        "Do 500 profile-affecting actions — robberies and encounters count; it comes passively.",
+        "Avoid reaching the permanent Irredeemable profile."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "secrets",
+      "story": false,
+      "missable": false,
+      "stage": 4,
+      "guide": "Not yet confirmed in-game — from the official description. The description, 'Second time's the charm', suggests succeeding at something on a second attempt. PowerPyx lists this trophy as currently unknown, believed to be related to the Payday Loans store from the prologue, but that is unconfirmed. Don't chase a specific method until a guide verifies it; this entry will be updated when a source pins it down.",
+      "steps": [
+        "Method not yet confirmed by any guide — PowerPyx believes it relates to the Payday Loans store from the prologue.",
+        "Watch for a second-attempt moment in the Payday Loans storyline; do not rely on it yet."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap (lists this trophy as currently unknown)", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+        {"name": "Exophase — Grand Theft Auto VI Trophies (PS5)", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"}
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "secrets",
+      "story": false,
+      "missable": false,
+      "stage": 4,
+      "guide": "Not yet confirmed in-game — from the official description. The description, 'What the hell just happened?', points to witnessing something strange. PowerPyx lists this trophy as currently unknown, believed to be from a UFO questline, but that is unconfirmed. Don't chase a specific UFO spot until a guide verifies it; this entry will be updated when a source pins it down.",
+      "steps": [
+        "Method not yet confirmed by any guide — PowerPyx believes it relates to a UFO questline.",
+        "Explore strange sightings in free-roam; do not rely on an unverified location yet."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap (lists this trophy as currently unknown)", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+        {"name": "Exophase — Grand Theft Auto VI Trophies (PS5)", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"}
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "hidden": true,
+      "count": null,
+      "kind": "secrets",
+      "story": false,
+      "missable": false,
+      "stage": 4,
+      "guide": "Not yet confirmed in-game — from the official description. The description says to bowl someone over with a melee drive-by, which points to striking an enemy with a melee weapon while driving past — PowerPyx believes it is from kicking enemies while riding a motorcycle, but that is unconfirmed. Don't trust a specific method until a guide verifies it; this entry will be updated when a source pins it down. The safe guess to try in free-roam is a melee kick from a moving motorcycle.",
+      "steps": [
+        "Method not yet confirmed by any guide — PowerPyx believes it is a melee kick from a motorcycle.",
+        "Try kicking an enemy while driving past on a motorcycle in free-roam."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap (lists this trophy as currently unknown)", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+        {"name": "Exophase — Grand Theft Auto VI Trophies (PS5)", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"}
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": 250000,
+      "kind": "money",
+      "story": false,
+      "missable": false,
+      "stage": 5,
+      "guide": "Launder a total of $250,000 in marked bills through your contacts (fences) — it counts across all robberies, not in one go. First finish the Chapter 3 mission Credit Check (meet Raul's crew), which unlocks the Dye Pack Jammer you need to launder marked bills. Then rob banks and Payday Loans stores and bring the marked bills to a fence — Yasmani in Vice City pays the most. The big bank vaults (unlocked in Chapter 4) give up to $205,000 in a single robbery, so a couple of vaults plus regular robberies will clear the total naturally while you work on the robbery trophies.",
+      "steps": [
+        "Finish Chapter 3 mission Credit Check to unlock the Dye Pack Jammer.",
+        "Rob banks and Payday Loans, then bring marked bills to a fence (Yasmani pays most).",
+        "Launder $250,000 in total — bank vaults give up to $205,000 each."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": 100000,
+      "kind": "money",
+      "story": false,
+      "missable": false,
+      "stage": 5,
+      "guide": "Spend $100,000 in total across all shops — the total is cumulative, so normal play counts. The fastest way is to buy the expensive things: guns, car mods and tattoos. The game has 14 mod shops, 19 Pay 'n' Sprays, 24 Ammu-Nations, 67 clothing stores, 17 footwear stores, 18 hair and beauty salons, 11 tattoo studios and 15 electronics stores, so there is no shortage of places to spend. Buy gear you actually need for the other trophies (weapons, armor, car upgrades) and this pops without grinding.",
+      "steps": [
+        "Spend $100,000 total across any shops — guns, car mods and tattoos are fastest.",
+        "Buy gear you need for other trophies and the total adds up on its own."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": 8,
+      "kind": "money",
+      "story": false,
+      "missable": false,
+      "stage": 5,
+      "guide": "Buy all 8 purchasable garages (there are 4 more story-related garages that don't count). They cost $160,000 in total. Garages become available after the Chapter 2 mission Daily Driver (steal the Crawler for Moses) — you'll get a notification that the Vice City Real Estate app has been installed on your phone, and you buy the garages through that app. The fastest money for them comes from robberies, especially the higher-value ones in Chapters 3–4. Buying garages also adds parking spots, which you need for On the Spot.",
+      "steps": [
+        "After Chapter 2 mission Daily Driver, open the Vice City Real Estate app on your phone.",
+        "Buy all 8 purchasable garages ($160,000 total)."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "hidden": false,
+      "count": 10,
+      "kind": "money",
+      "story": false,
+      "missable": false,
+      "stage": 5,
+      "guide": "Register 10 vehicles in the Scooter Bros app, which lets you summon registered vehicles to your location. The app is installed on your phone after the Chapter 2 mission Moses (take a vehicle to Moses). First buy enough garages (see Little Boxes) — each garage adds parking spots to register more vehicles. Then drive stolen vehicles to Moses in Port Gellhorn and choose Respray then Register in his garage. At first he only accepts vehicles without trackers; later in Chapter 3 you can also register cars with standard trackers, at any Pay 'n' Spray. Registering costs money, so use cheap low-end cars and bikes to keep the bill down.",
+      "steps": [
+        "After Chapter 2 mission Moses, buy garages for parking spots (see Little Boxes).",
+        "Drive stolen vehicles to Moses in Port Gellhorn and choose Respray, then Register.",
+        "Register 10 vehicles — cheap cars and bikes keep the cost down."
+      ],
+      "sources": [
+        {"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
+      ]
+    }
+  ],
+  "roadmap": [
+    {
+      "stage": 1,
+      "title": "Play the story — Chapters 1 to 5",
+      "time": "60–80 hours",
+      "summary": "Finish the campaign and collect the 12 story trophies plus the 6 mission trophies along the way. Do side content as it appears, scan vehicles and study animals as you travel, and keep a manual save at the start of each chapter (no mission replay, 15 manual slots).",
+      "watch": "In Chapter 1, do Lucia's balcony meditation at Jason's house the morning after Down to Earth — it is the one possibly missable step in the whole game (Positive Mental Attitude). Turn on progress and collectible notifications in Settings so nothing slips past.",
+      "trophies": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+    },
+    {
+      "stage": 2,
+      "title": "Character quests & strangers",
+      "time": "Alongside the story, finish after it",
+      "summary": "Clear the six character questlines (Andy, Kenton, Billy, Randy, Tyrone, Bret) and 8 stranger strands. Quest givers can go temporarily unavailable mid-story but all return later, so nothing here is missable — just do quests as they appear.",
+      "watch": "Yago's Race Against Yago is time-sensitive (hourglass icon). Andy's line is Lucia-only, Tyrone's and Bret's are Jason-only.",
+      "trophies": [22, 23, 24, 25, 26, 27, 29]
+    },
+    {
+      "stage": 3,
+      "title": "Activities, skills & challenges",
+      "time": "During and after the story",
+      "summary": "Gold all 42 shooting range challenges, win drone races at all 14 locations, win 20 different races, finish 250 stunts, complete 50 challenges, beat Cal at fishing and finish an arcade game. These also fill the 9 activity types for Master of None.",
+      "watch": "The 100% checklist wants more than the trophies do: 300 stunts and 70 of 80 challenges — keep going past the trophy targets.",
+      "trophies": [15, 16, 17, 18, 19, 20, 21, 32, 36, 47, 48]
+    },
+    {
+      "stage": 4,
+      "title": "Collectibles & exploring Leonida",
+      "time": "Free-roam cleanup",
+      "summary": "Meditate at all 18 spots (with both characters), complete 3 card sets, WAiNK It at 100 locations, discover 100 vehicles and unfog the whole map. Fly a plane over the fog for The Goodtime State, and scan everything you pass.",
+      "watch": "The 100% checklist needs only 15 of 18 meditations, but the trophy needs all 18 — including the Chapter 1 balcony session. Five trophies here are still unconfirmed in-game (In The Beginning…, Capital Offense, Bad Luck I Guess, The Truth Is Out There, Ten Pin) — try them in free-roam and check for updates.",
+      "trophies": [28, 30, 31, 35, 42, 44, 45, 49, 50, 51]
+    },
+    {
+      "stage": 5,
+      "title": "Robberies, money & the platinum",
+      "time": "Endgame cleanup",
+      "summary": "Rob 5 bank vaults (all 8 for 100%), an armored truck, a jewelry store undetected, one illegal operation per gang, and 3 shops back-to-back with your partner; launder $250,000, spend $100,000, buy all 8 garages and register 10 vehicles. Then finish the 100% checklist for A Long Road — and the platinum pops.",
+      "watch": "Bank vaults open after the Chapter 4 mission That's Where The Money Is…. Each vault robbery brings a 4-star wanted level, so it also clears Hot Together. Cheats disable trophies and saving — keep them off for the whole run.",
+      "trophies": [1, 14, 33, 34, 37, 38, 39, 40, 41, 43, 46, 52, 53, 54, 55]
+    }
+  ]
+}
